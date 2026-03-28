@@ -29,6 +29,7 @@ This project presents an interactive Power BI dashboard built to analyze pizza s
 
 ---
 
+
 ## 📂 Dataset
 - Contains pizza sales records including:
   - Order details
@@ -37,7 +38,8 @@ This project presents an interactive Power BI dashboard built to analyze pizza s
   - Quantity & pricing
 
 ---
----
+---## 📸 Dashboard Preview:<img width="1376" height="744" alt="pizza sales png" src="https://github.com/user-attachments/assets/e5e0c0b4-0aa0-4297-b0c4-d983212f2a73" />
+
 
 ## 🎯 Project Objective
 To transform raw sales data into actionable insights that help improve business decisions, sales strategies, and customer satisfaction.
